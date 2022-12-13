@@ -1,0 +1,27 @@
+{
+  "name": "package-update-watcher",
+  "version": "1.0.0",
+  "description": "Setup Dependabot to receive notifications about new package versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanpham199/package-update-watcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanpham199/package-update-watcher/issues"
+  },
+  "homepage": "https://github.com/tanpham199/package-update-watcher#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.1",
+    "next": "^13.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.4.5"
+  }
+}
